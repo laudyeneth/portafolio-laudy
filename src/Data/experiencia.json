@@ -1,0 +1,34 @@
+[
+  {
+    "cargo": "Desarrolladora junior",
+    "organizacion": "Factoría F5",
+    "fechas": "Oct 2023 - Actualidad",
+    "funciones": ["-> Front-end: React Js | Typescript | CSS | HTML | CSS", 
+    "->  Back-end: Java | JavaScript | MySQL",
+    "-> Software de control de versión: Git | GitHub",
+    "-> Metodologías ágiles: SCRUM",
+    "-> Desarrollo de aplicaciones y sitios web en un ambiente educativo",
+    "-> Trabajo en equipo para el desarrollo de sitios web"]
+  },
+  {
+    "cargo": "Desarrolladora Jr",
+    "organizacion": "Dagemar soluciones",
+    "fechas": "Oct 2020 - Nov 2021, y Feb 2022 - Dic 2022",
+    "funciones": ["-> Desarrollo de módulo de tiquetes para sistema COOPAVA en el lenguaje Java Swing, trabajando con bases de datos y aplicaciones de escritorio.", 
+    "-> Levantamiento de requerimientos del cliente para el desarrollo de la aplicación.",
+    "-> Modelado  UML y documentación para implementar las soluciones informáticas.",
+    "-> Mantenimiento y soporte técnico a usuarios de la aplicación."]
+  },
+  {
+    "cargo": "Docente",
+    "organizacion": "Soluciones educativas CM",
+    "fechas": "2011 - 2017",
+    "funciones": ["-> Docente de tecnología, informática, dibujo técnico en primaria y secundaria."]
+  },
+  {
+    "cargo": "Docente",
+    "organizacion": "Colegio Montreal ",
+    "fechas": "2010",
+    "funciones": ["-> Docente de Informática  y dibujo técnico en preescolar, primaria y secundaria."]
+  }
+]

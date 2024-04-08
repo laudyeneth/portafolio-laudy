@@ -1,0 +1,74 @@
+body{
+    color: #6F8BA4;
+    margin-top:20px;
+}
+.section {
+    padding: 100px 0;
+    position: relative;
+}
+.gray-bg {
+    background-color: #f5f5f5;
+}
+img {
+    max-width: 100%;
+    vertical-align: middle;
+    border-style: none;
+}
+
+#root {
+  text-align: justify;
+} 
+
+.about-text h3 {
+  font-size: 40px;
+  font-weight: 500;
+  text-align: center;
+}
+@media (max-width: 767px) {
+  .about-text h3 {
+    font-size: 35px;
+  }
+}
+
+.about-text p {
+  font-size: 18px;
+  max-width: 450px;
+  text-align: justify;
+}
+
+.about-avatar {
+    width: 70%;
+}
+
+.about-avatar img {
+  border-radius: 100%;
+}
+
+@media (max-width: 991px) {
+  .about-avatar {
+    margin-top: 10px;
+  }
+}
+
+.about-section .counter {
+  padding: 22px 20px;
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 0 30px rgba(31, 45, 61, 0.125);
+}
+.about-section .counter .count-data {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.about-section .counter .count {
+  font-weight: 700;
+  color: #2A8F7F;
+  margin: 0 0 5px;
+}
+.about-section .counter p {
+  font-weight: 600;
+  margin: 0;
+}
+.dark-color {
+    color: #2A8F7F;
+}

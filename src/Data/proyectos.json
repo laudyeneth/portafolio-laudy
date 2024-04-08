@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Ruleta",
+    "img": "proyectos/ruleta.png",
+    "description": "Aplicación web para seleccionar personas de manera aleatoria.",
+    "skills": "JavaScript, Css, Html",
+    "demo": "https://hack3r-han.github.io/StarWars-Roulette/",
+    "source": "https://github.com/Hack3r-han/StarWars-Roulette"
+  },
+  {
+    "title": "To do list",
+    "img": "proyectos/list.png",
+    "description": "Aplicación web de una to do list o lista de tareas.",
+    "skills": "JavaScript, Css, Html",
+    "demo": "https://laudyeneth.github.io/Proyecto5-todoList/",
+    "source": "https://github.com/laudyeneth/Proyecto5-todoList"
+  },
+  {
+    "title": "Panel de comercio electrónico",
+    "img": "proyectos/panel.png",
+    "description": "Web de una tienda online, basada en una API fake, donde se registran productos.",
+    "skills": "JavaScript, Css, Html",
+    "demo": "https://ecollectic.vercel.app/",
+    "source": "https://github.com/Hack3r-han/eCollectic"
+  }
+]

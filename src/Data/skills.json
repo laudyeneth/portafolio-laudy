@@ -1,0 +1,47 @@
+ [
+  {
+    "name": "Git",
+    "iconClass": "devicon-git-plain",
+    "title": "Git"
+  },
+  {
+    "name": "GitHub",
+    "iconClass": "devicon-github-plain",
+    "title": "Github"
+  },
+    {
+      "name": "HTML5",
+      "iconClass": "devicon-html5-plain",
+      "title": "HTML5"
+    },
+    {
+      "name": "CSS3",
+      "iconClass": "devicon-css3-plain",
+      "title": "CSS3"
+    },
+    {
+      "name": "JavaScript",
+      "iconClass": "devicon-javascript-plain",
+      "title": "JavaScript"
+    },
+    {
+      "name": "Node.js",
+      "iconClass": "devicon-nodejs-plain",
+      "title": "Node Js"
+    },
+    {
+      "name": "React",
+      "iconClass": "devicon-react-plain",
+      "title": "React"
+    },
+    {
+      "name": "MySQL",
+      "iconClass": "devicon-mysql-plain",
+      "title": "MySQL"
+    },
+    {
+      "name": "Java",
+      "iconClass": "devicon-java-plain",
+      "title": "Java"
+    }
+]
